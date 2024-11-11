@@ -27,7 +27,6 @@ I-am-mfmejia-dev
 
 
 ### 📱 Contact
-
 <p>
   <a href="mailto:mariaf.mejia7@gmail.com">
     <img alt="mariaf.mejia7" src="https://img.shields.io/badge/mariaf.mejia7-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -40,11 +39,11 @@ I-am-mfmejia-dev
 </a>
 </p>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages And Tools
 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,js,mysql,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,js,mysql,dotnet,git" />
   </a>
 </p>
