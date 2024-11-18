@@ -31,7 +31,7 @@ I-am-mfmejia-dev
   <a href="mailto:mariaf.mejia7@gmail.com">
     <img alt="mariaf.mejia7" src="https://img.shields.io/badge/mariaf.mejia7-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://www.linkedin.com/in/maria-f-mejia](https://www.linkedin.com/in/maria-f-mejia-159040338)">
+  <a href="https://www.linkedin.com/in/maria-f-mejia-159040338">
     <img alt="maria f. mejia" src="https://img.shields.io/badge/maria%20f.%20mejia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
   <a href="https://www.instagram.com/mafe_mej7">
